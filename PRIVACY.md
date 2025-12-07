@@ -1,6 +1,6 @@
 EasyTCP Privacy Policy
 
-Last Updated: [1207, 2025]
+Last Updated: December 7, 2025
 
 1. Data Collection Statement
 
@@ -26,6 +26,4 @@ If this privacy policy is updated in the future, users will be notified in advan
 
 5. Contact Us
 
-For any questions regarding privacy, please contact us via email at [your email address].
-
-Note: Replace [Month Day, Year] with the actual update date (e.g., January 15, 2025) and hello2easyai@gmail.com with your official contact email before using.
+For any questions regarding privacy, please contact us via email at hello2easyai@gmail.com.
